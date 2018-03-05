@@ -1,0 +1,6 @@
+franchiseesID,firstname,middlename,lastname,emailID,username,password,active,mobileno,state,city,pincode,joiningdate,dob,franchisorsID,image
+fe001,harshit,kumar,gupta,guptaharshit001@gmail.com,guptaharshit,gupta001,1,9465378291,ncr,delhi,234517,2010-09-15,1994/11/08,fr001,NULL
+fe002,rahul,singh,rai,rairahul002@gmail.com,rairahul,rai002,1,9956347629,andhra,hyderabad,734545,2012-06-10,1992/05/07,fr002,NULL
+fe003,vivek,kumar,yadav,yadavvivek003@gmail.com,yadavvivek,yadav003,0,8400836952,bihar,patna,926746,2014-02-12,1990/04/10,fr003,NULL
+fe004,shubham,,gupta,guptashubham004@gmail.com,guptashubham,gupta004,1,9651342571,up,kanpur,238649,2016-03-15,1989/01/18,fr005,NULL
+fe005,rahul,,rai,rairahul005@gmail.com,rahul,rahul005,0,9965753436,andhra,hyderabad,734545,2015-05-09,1992/05/07,fr004,NULL

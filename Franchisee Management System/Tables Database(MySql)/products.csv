@@ -1,0 +1,14 @@
+modelname,color,type,price,status,sellingprice,franchisorsID,quantity
+"BMW R nine T",black,2-wheeler,2172546.00,unsold,2472546.00,fr003,10
+"bmw x3",white,4-wheeler,4800000.00,sold,6100000.00,fr003,12
+"bmw z5",black,4-wheeler,7750000.00,unsold,7850000.00,fr003,15
+fascino,red,2-wheeler,53300.00,sold,55000.00,fr002,10
+"fortuner 2.8 4*4 at",silver,4-wheeler,3100470.00,unsold,3112000.00,fr004,18
+FZ25,blue,2-wheeler,127000.00,unsold,128500.00,fr002,14
+"honda dream",red,2-wheeler,55000.00,unsold,55067.00,fr001,14
+"honda dream",silver,4-wheeler,1061000.00,unsold,1000700.00,fr001,5
+"honda yuvi",black,2-wheeler,61000.00,sold,62050.00,fr001,16
+innova,black,4-wheeler,1140000.00,unsold,1250000.00,fr004,10
+kijang,white,4-wheelar,2200000.00,sold,2350000.00,fr004,5
+"tata hexa",silver,4-wheeler,1393240.00,unsold,1403240.00,fr005,6
+"tata LPK 2518",white-green,truck,2840000.00,unsold,3950000.00,fr005,13

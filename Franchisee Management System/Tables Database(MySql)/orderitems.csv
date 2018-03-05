@@ -1,0 +1,7 @@
+orderitemsID,modelname,color,type,ordersID,quantity
+oi001,"honda dream",red,2-wheeler,o002,5
+oi002,"bmw z5",black,4-wheeler,o001,3
+oi003,"tata LPK 2518",white-green,truck,o003,1
+oi004,"BMW R nine T",black,2-wheeler,o001,1
+oi005,"toyota kijang",white,4-wheeler,o006,2
+oi006,"tata hexa",silver,4-wheeler,o003,1

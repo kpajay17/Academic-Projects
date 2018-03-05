@@ -1,0 +1,7 @@
+ordersID,franchiseesID,franchisorsID,ordersdate,status
+o001,fe003,fr003,2017-01-10,delevered
+o002,fe001,fr001,2017-01-15,"not delevered"
+o003,fe004,fr005,2017-01-18,delevered
+o004,fe002,fr002,2017-01-20,delevered
+o005,fe003,fr003,2017-01-23,"not delevered"
+o006,fe005,fr004,2017-01-25,delevered

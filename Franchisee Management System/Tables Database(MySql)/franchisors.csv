@@ -1,0 +1,6 @@
+franchisorsID,firstname,middlename,lastname,emailID,mobileno,companyname,username,password,state,city,pincode,startyear,active
+fr001,santosh,NULL,rai,raisantosh@gmail.com,8796532476,honda,raisantosh,rai001,mp,bhopal,462007,2008,1
+fr002,manoj,NULL,shukla,shuklamanoj@gmail.com,9958653251,yamaha,shuklamanoj,shukla002,mp,dewas,856923,2010,1
+fr003,sahil,NULL,ansari,ansarisahil@gmail.com,9838289225,bmw,ansarisahil,ansari003,up,allahabad,658245,2012,1
+fr004,rohan,NULL,sinha,sinharohan@gmail.com,9651248796,toyota,sinharohan,sinha004,west bangal,kolkata,485469,2015,0
+fr005,dilip,NULL,pal,paldilip005@gmail.com,9454251632,tata,paldilip,pal005,maharastra,mumbai,758421,2016,1
